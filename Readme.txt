@@ -1,0 +1,1 @@
+In this study, to address questions about signature continuity along the adenoma-carcinoma sequence at a low level of inter-individual heterogeneity and clarify the differential role that microbiota at left-right segmentation CRC tumorigenesis, we included 125 patients with both primary colorectal adenoma and carcinoma and acquire 16S rRNA sequences data. 
